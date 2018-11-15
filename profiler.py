@@ -1,5 +1,4 @@
 #!/usr/bin/python3.6
-__author__ = 'Yunjie Wang'
 __email__ = 'fr42k.w@gmail.com'
 import argparse
 import csv
